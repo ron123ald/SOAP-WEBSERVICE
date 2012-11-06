@@ -2,3 +2,8 @@ D:\SOAP-WEBSERVICE\ChatManagerService\ChatManagerService\bin\ChatManagerService.
 D:\SOAP-WEBSERVICE\ChatManagerService\ChatManagerService\bin\ChatManagerService.pdb
 D:\SOAP-WEBSERVICE\ChatManagerService\ChatManagerService\obj\Debug\ChatManagerService.dll
 D:\SOAP-WEBSERVICE\ChatManagerService\ChatManagerService\obj\Debug\ChatManagerService.pdb
+D:\TEST GITHUB\SOAP-WEBSERVICE\ChatManagerService\ChatManagerService\bin\ChatManagerService.dll
+D:\TEST GITHUB\SOAP-WEBSERVICE\ChatManagerService\ChatManagerService\bin\ChatManagerService.pdb
+D:\TEST GITHUB\SOAP-WEBSERVICE\ChatManagerService\ChatManagerService\obj\Debug\ChatManagerService.csprojResolveAssemblyReference.cache
+D:\TEST GITHUB\SOAP-WEBSERVICE\ChatManagerService\ChatManagerService\obj\Debug\ChatManagerService.dll
+D:\TEST GITHUB\SOAP-WEBSERVICE\ChatManagerService\ChatManagerService\obj\Debug\ChatManagerService.pdb
