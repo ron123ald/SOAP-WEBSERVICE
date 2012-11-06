@@ -1,5 +1,6 @@
-ChatManagerService/bin
-CHatManagerService/obj
+ChatManagerService/ChatManagerService/bin
+CHatManagerService/ChatManagerService/
+*.obj
 *.log
 *.csproj
 *.Debug
