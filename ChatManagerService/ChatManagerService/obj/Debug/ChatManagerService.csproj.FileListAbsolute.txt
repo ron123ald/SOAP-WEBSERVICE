@@ -1,0 +1,4 @@
+D:\SOAP-WEBSERVICE\ChatManagerService\ChatManagerService\bin\ChatManagerService.dll
+D:\SOAP-WEBSERVICE\ChatManagerService\ChatManagerService\bin\ChatManagerService.pdb
+D:\SOAP-WEBSERVICE\ChatManagerService\ChatManagerService\obj\Debug\ChatManagerService.dll
+D:\SOAP-WEBSERVICE\ChatManagerService\ChatManagerService\obj\Debug\ChatManagerService.pdb
